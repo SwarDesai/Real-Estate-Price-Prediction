@@ -5,4 +5,5 @@ The goal of this project is to predict the sale prices of houses based on variou
 # Project Structure
 The repository is organized as follows:  
    * bengaluru_house_prices.csv : contains the dataset used for training and testing the model.  
-   * banglore_home_prices_final.ipynb : Jupyter notebooks with the code for data exploration, feature engineering, model building, and evaluation.<br>* README.md : The document you are currently reading.
+   * banglore_home_prices_final.ipynb : Jupyter notebooks with the code for data exploration, feature engineering, model building, and evaluation.
+   * README.md : The document you are currently reading.
